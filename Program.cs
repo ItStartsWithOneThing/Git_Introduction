@@ -11,3 +11,7 @@ Console.WriteLine("1XEBETtebya");
 Console.WriteLine("1XEBETtebya");
 Console.WriteLine("1XEBETtebya");
 
+Console.WriteLine("666");
+Console.WriteLine("666");
+
+
