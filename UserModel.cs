@@ -1,0 +1,9 @@
+﻿
+namespace Git_Introduction
+{
+    internal class UserModel
+    {
+        public Guid Id { get; set; }
+        public string Name { get; set; }
+    }
+}
