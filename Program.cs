@@ -1,20 +1,20 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using Git_Introduction;
+
 Console.WriteLine("Hello, World!");
 
-Console.WriteLine("Goodbye world");
+Console.WriteLine();
 
-Console.WriteLine("AZINO777");
-Console.WriteLine("AZINO777");
-Console.WriteLine("AZINO777");
+void Create(TestClass test)
+{
+    
+    test.ClassMethod();
+}
 
-Console.WriteLine("1XEBETtebya");
-Console.WriteLine("1XEBETtebya");
-Console.WriteLine("1XEBETtebya");
+var clas = new TestClass();
 
-Console.WriteLine("222");
-Console.WriteLine("222");
+Create(clas);
 
-Console.WriteLine("666");
-Console.WriteLine("666");
+Console.ReadLine();
 
 
